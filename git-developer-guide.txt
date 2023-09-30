@@ -1,0 +1,25 @@
+
+Git And GitHub.
+
+1. Git is open source, projects are built and maintained collectively by different
+	developer in different location.
+2. Git track changes via a distributed version control system.
+3. You also need a place to host your code , this is where GitHub comes in.
+4. When you are using GitHub, you are using or working with Git beneath the hood.
+5. Differece -> Git is version control system that manages and keeps track of your code.
+				GitHub on the other side is a service that let you hot,share and manages
+				your code files onthe internet.
+				
+7. Creating a Repository :-
+						 1. A repository is usually used to organize a single project.
+						 2. Repository can contain folders and files. images, videos
+						 dataset.
+						 
+8. Creating a Branch :-
+					 1. by default your repository has one branch named "main" or "master"
+					 sometime.
+					 
+					 2. Branching lets you have different version of a repository at
+					 one time.
+					 3. This is helpful when you want to add new features to a project
+					 without changing the main
